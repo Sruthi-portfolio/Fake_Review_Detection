@@ -1,4 +1,4 @@
-[![Streamlit App](http://localhost:8501/)
+(http://localhost:8501/)
 
 
 # Fraud Detection in Online Consumer Reviews Using Machine Learning Techniques
